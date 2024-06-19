@@ -1,1 +1,1 @@
-### The ExeStarter program allows users to generate their very own EXE files that run multiple files or command files that they want at the timing they want and the way they want. Easily, fast, and simple, with a nice basic interface.
+Custom EXE Builder and Scheduler. The ExeStarter program allows users to generate their own EXE files that run multiple files or command files at the timing they want and the way they want. Easily, fast, and simple, with a nice basic interface.
